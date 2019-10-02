@@ -1,4 +1,4 @@
-# Amending a Commit
+## Amending a Commit
 
 What if you commit a change to your remote repository only to realize later that you have a typo in the commit message or you forgot to add a line in your most recent commit.
 How do you edit that? This is what this tutorial covers.
